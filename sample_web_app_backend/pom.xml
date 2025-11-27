@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>demo</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Spring Boot...Super_malicious_code_added</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
